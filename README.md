@@ -21,3 +21,12 @@ This project predicts whether a Titanic passenger survived or not using Logistic
 
 POST `/prediction`
 
+## Screenshots
+
+### Swagger UI
+
+![Swagger UI](assets/swagger.png)
+
+### Successful Prediction
+
+![Prediction Output](assets/prediction.png)
